@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+}
+
+input{
+    padding: 10px;
+
+}
+#form1{
+    margin-top: 40px;
+    background-color: rgba(150, 105, 233, 0.699);
+    padding: 80px;
+    
+}
